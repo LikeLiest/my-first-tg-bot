@@ -1,0 +1,8 @@
+bot:
+  token: 8083170024:AAG25AyuGvbOQjFi3of9vZRUFzjodkOtWHM
+
+cbr:
+  currency:
+    rates:
+      xml:
+        url: "http://www.cbr.ru/scripts/XML_daily.asp"
